@@ -1,7 +1,7 @@
 # JavaScript-ITMO
 Some Javascript homeworks from Paradigms-courses.
 
-### 1.
-Operations with vectors, matrix and tensors
-### 2.Expressions
-Parser of expressions in prefix form. Some mathematical functions
+### 1. Object
+Parser and mathematical functions using objects
+### 2. Functional
+Parser and mathematical functions using functions

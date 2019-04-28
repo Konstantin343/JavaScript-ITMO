@@ -1,5 +1,5 @@
 # JavaScript-ITMO
-Some Javascript homeworks from Paradigms-courses.
+Some JavaScript homeworks from Paradigms-courses.
 
 ### 1. Object
 Parser and mathematical functions using objects
